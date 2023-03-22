@@ -119,6 +119,8 @@ This is a list for mesh networking: Documentation, Free Software mesh protocols,
 
 * [SudoRoom's Mesh Group](https://sudoroom.org/wiki/Mesh) - A collective of collectives stewarding a large community space in Oakland, California.
 
+* [KULUPU](https://kulupu.io) - Mesh networking community in Montreal.
+
 ## License
 **[`^        back to top        ^`](#)**
 
